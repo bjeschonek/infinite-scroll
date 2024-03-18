@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+.loader {
+    margin: 16px;
+    margin-top: 16px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    height: 120px;
+    width: 120px;
+
+}
